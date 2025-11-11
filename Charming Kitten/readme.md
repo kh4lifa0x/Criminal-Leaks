@@ -1,0 +1,1 @@
+APT35, also known as Magic Hound and Charming Kitten, is an Iranian state-backed cyber espionage group active since at least 2014. The threat actor is known for strategic intelligence-gathering, data theft, and disruption operations aligned with Iran’s geopolitical and military objectives.
